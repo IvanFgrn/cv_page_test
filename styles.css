@@ -1,0 +1,96 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color:rgba(252, 194, 144, 0.224);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    margin: auto;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.header__title {
+    font-size: 28px;
+}
+.header__subtitle {
+    color: rgba(58, 13, 0, 0.763);
+}
+
+main {
+    border: 1px solid rgba(58, 13, 0, 0.382);
+    text-align: center;
+}
+
+.skills ol {
+    list-style: none;
+}
+
+.separator {
+    width: 50%;
+    height: 3px;
+    background-color: rgba(58, 13, 0, 0.763);
+    border-style: none;
+}
+
+.video iframe {
+    width: 900px;
+    height: 490px;
+    border: none;
+}
+
+.hobby ul {
+    list-style: none;
+}
+
+.education__table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.education__table th,
+.education__table td {
+    border: 1px solid rgba(58, 13, 0, 0.763);
+    padding: 10px;
+}
+
+.quote {
+    font-size: 32px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form__control {
+    width: 100%;
+}
+
+.control--text{
+ width: 70%;
+}
+
+.form__submit {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background: rgba(252, 194, 144, 0.100);
+}
+
+.contacts__link {
+    text-decoration: none;
+    color: rgba(58, 13, 0, 0.963);
+    font-style: normal;
+}
