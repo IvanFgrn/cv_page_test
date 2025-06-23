@@ -10,5 +10,6 @@
 ```
 
 [CV page repository](ivanfgrn.github.io/cv_page_test/)
+
 ![image](Images/Ai-Ivan.jpeg)
 
